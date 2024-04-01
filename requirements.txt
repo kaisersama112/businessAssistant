@@ -1,0 +1,8 @@
+huggingface-hub==0.17.3
+transformers==4.34 
+psutil==5.9.8
+accelerate==0.24.1
+streamlit==1.32.2 
+matplotlib==3.8.3 
+modelscope==1.9.5
+sentencepiece==0.1.99
